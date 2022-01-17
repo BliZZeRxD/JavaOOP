@@ -1,0 +1,5 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Ospanova Aida 100
+Bekeshov Ayan 78
+Bicurman Sasa 90

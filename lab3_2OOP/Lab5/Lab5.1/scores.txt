@@ -1,0 +1,6 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Menshikov Sergey 65
+Bishekov Timur 78
+Usmanova Aida 85
+Bekeshov Ayan 93
